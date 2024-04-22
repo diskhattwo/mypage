@@ -131,6 +131,17 @@ aside {
     width: 230px;
 }
 
+.maxbious{
+    position: absolute;
+    left: 3%;
+    top: 50%;
+}
+
+#cbox{
+    width: 300px;
+    height: 400px;
+}
+
 .content {
     background-image: var(--blue-marble);
     border: outset;
